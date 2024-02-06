@@ -1,0 +1,1 @@
+SunnyRate = lambda SunnyDays,TotalDays:print("{}%".format(int((SunnyDays / TotalDays) * 100)))
